@@ -53,6 +53,9 @@
    icon: image,
    url: 'mapWithOffer.html'
  });
+ google.maps.event.addListener(beachMarker, 'click', function(){
+      window.location.href = this.url;
+ });
    
 
 };
@@ -106,6 +109,9 @@
           zIndex: beach[3],
           url: 'mapWithOffer.html'
         });
+      google.maps.event.addListener(marker, 'click', function(){
+           window.location.href = this.url;
+      });
       }
     }
    </script>
