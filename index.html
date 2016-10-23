@@ -20,10 +20,11 @@
  </head>
  <body>
    <p>
-     <a href="./MapWithOffer.png">MapWithOffer</a>
+     <a href="./mapWithOffer.html">MapWithOffer</a>
+     <a href="./hotspot.html">HotSpot</a> 
+     <a href="./riddle.html">Riddle</a> 
      <a href="./redeemOffer.html">Redeem</a> 
    </p>
-   <div id="map"></div><a href="./MapWithOffer.png">
    <script>
 
      // The following example creates complex markers to indicate beaches near
@@ -49,7 +50,8 @@
  var beachMarker = new google.maps.Marker({
    position: {lat: 36.1221442, lng: -115.1674636},
    map: map,
-   icon: image
+   icon: image,
+   url: './mapWithOffer.html'
  });
    
 
@@ -101,7 +103,7 @@
           icon: image,
           shape: shape,
           title: beach[0],
-          zIndex: beach[3]
+          zIndex: beach[3],
           url: beach[4]
         });
       }
@@ -110,6 +112,5 @@
    <script async defer
    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCRg9r0vk3BgC1_YZZj5bPeIrcxpIe_Q&callback=initMap">
    </script>
-   </a>
  </body>
 </html>
