@@ -14,4 +14,4 @@ journey
       Expedition Sailing Adventures: 9: Me, Bill, Chris
 ```
 
-- [Foreclosure Oregon](./foreclosure/foreclosureOregon.md)
+- [Foreclosure Oregon](./foreclosure/Oregon.md)
