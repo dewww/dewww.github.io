@@ -16,8 +16,8 @@ journey
       Expedition Sailing Adventures: 9: Me, Bill, Chris
 ```
 ## [Blog](./blog)
-- [Giving Back](./givingBack.md)
-- [Mind Mapping](./mindMap.md)
+- [Giving Back](./blog/givingBack.md)
+- [Mind Mapping](./blog/mindMap.md)
 
 ## Process
 
