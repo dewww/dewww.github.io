@@ -17,7 +17,7 @@ journey
 ```
 ## [Blog](./blog)
 - [Giving Back](./blog/givingBack.md)
-- [Mind Mapping](./blog/mindMap.md)
+- [Mind Mapping](./blog/mindMapping.md)
 
 ## Process
 
