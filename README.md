@@ -18,6 +18,7 @@ journey
 ## [Blog](./blog)
 - [Giving Back](./blog/givingBack.md)
 - [Mind Mapping](./blog/mindMapping.md)
+- [Criical Thinking](./blog/criticalThinking.md)
 
 ## Process
 
