@@ -18,7 +18,7 @@ HUD-certified housing counselors provide free or low-cost services to homeowners
    - Clarify state-specific foreclosure laws in Oregon.
    - Explain the timeline and legal requirements lenders must follow.
 
-2. **Assess Your Financial Situation**  
+2. **[Assess Your Financial Situation](./AssessFinances.md)**  
    - Review your income, expenses, and debts.
    - Help you understand your ability to keep the home or consider alternatives.
 
