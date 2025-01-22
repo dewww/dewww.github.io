@@ -14,7 +14,7 @@ Foreclosure counseling is a service provided by HUD-certified housing counselors
 
 HUD-certified housing counselors provide free or low-cost services to homeowners at risk of foreclosure. They can:
 
-1. **Explain the Foreclosure Process**  
+1. **Explain the [Foreclosure Process](./OregonProcess.md)**  
    - Clarify state-specific foreclosure laws in Oregon.
    - Explain the timeline and legal requirements lenders must follow.
 
