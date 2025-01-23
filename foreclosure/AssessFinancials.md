@@ -44,6 +44,9 @@ flowchart TD
 Resulting in this formula:
 > DTI = (Total Monthly Debt Payments / Gross Monthly Income) x 100
 
+$ DTI = (Total Monthly Debt Payments / Gross Monthly Income) × 100 $
+$ \text{DTI} = \left( \frac{\text{Total Monthly Debt Payments}}{\text{Gross Monthly Income}} \right) \times 100 $
+
 - A DTI above **43%** is often a red flag for financial strain.
 - If your mortgage payment alone exceeds **28%-31%** of your income, you may face challenges in sustaining payments.
 
