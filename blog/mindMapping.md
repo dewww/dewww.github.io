@@ -48,7 +48,7 @@ mindmap
        icons 
          ::icon(fa fa-book)
        images
-         ::icon(fa sitemap)
+         ::icon(fa image)
     Review and Refine
 ```
 
