@@ -25,6 +25,26 @@ The beauty of mind mapping lies in its flexibility. You can use it to brainstorm
 5. Review and Refine:
 	> As your map evolves, step back and identify patterns, connections, or gaps. This is where insights often emerge.
 
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
+
 ## Why Mind Mapping Works
 
 - Engages Both Sides of the Brain: Mind mapping combines logical structure with creative elements like colors and images, activating both hemispheres of your brain for deeper thinking.
