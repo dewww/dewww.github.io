@@ -28,21 +28,27 @@ The beauty of mind mapping lies in its flexibility. You can use it to brainstorm
 ```mermaid
 mindmap
   root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+    Start with a Central Idea
+       main topic
+       problem
+    Branch Out
+       radiating lines
+       key subtopics
+    Add Details
+       smaller branches
+       specific ideas
+       facts
+       actions
+    Use Visuals
+       colors
+       shapes
+          id(rounded)
+          id[squared]
+          id((circle))
+       icons 
+         ::icon(fa fa-book)
+       images
+    Review and Refine
 ```
 
 ## Why Mind Mapping Works
