@@ -109,5 +109,3 @@ By thoroughly assessing your financial situation and exploring available resourc
 ---
 
 _Disclaimer: This document is for informational purposes only and does not constitute financial or legal advice. Consult a professional for personalized guidance._
-
-This markdown document can be uploaded to GitHub as a guide for anyone needing assistance with assessing their financial situation regarding mortgage default.
