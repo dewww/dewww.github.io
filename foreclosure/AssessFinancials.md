@@ -32,7 +32,7 @@ This guide will help you evaluate your financial standing, understand your optio
 ## 2. Calculate Your Debt-to-Income (DTI) Ratio
 The DTI ratio shows how much of your income goes toward debt payments
 
-'''mermaid
+```mermaid
 flowchart TD
     A[Start] --> B[Total Monthly Debt Payments]
     B --> C[Gross Monthly Income]
@@ -40,7 +40,7 @@ flowchart TD
     D --> E[Multiply by 100]
     E --> F[DTI Percentage]
     F --> G[End]
-'''
+```
 
 - A DTI above **43%** is often a red flag for financial strain.
 - If your mortgage payment alone exceeds **28%-31%** of your income, you may face challenges in sustaining payments.
