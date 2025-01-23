@@ -42,7 +42,6 @@ flowchart TD
     F --> G[End]
 ```
 Resulting in this formula:
-> DTI = (Total Monthly Debt Payments / Gross Monthly Income) x 100
 
 ![DTI Formula](DTI.jpeg)
 
