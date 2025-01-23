@@ -33,7 +33,7 @@ This guide will help you evaluate your financial standing, understand your optio
 The DTI ratio shows how much of your income goes toward debt payments
 
 '''math
-DTI = (Total Monthly Debt Payments / Gross Monthly Income) x 100'$
+DTI = (Total Monthly Debt Payments / Gross Monthly Income) x 100
 '''
 
 - A DTI above **43%** is often a red flag for financial strain.
