@@ -70,6 +70,7 @@ Mind mapping is versatile and can be used for countless purposes. Here are just 
 ## Tools for Mind Mapping
 
 You can start mind mapping with just pen and paper, but if you prefer digital tools, here are a few popular options:
+- Mermaid: text to mindmap
 - MindMeister: Great for collaborative mind mapping.
 - XMind: Ideal for detailed, professional-grade maps.
 - Coggle: Simple and intuitive for beginners.
