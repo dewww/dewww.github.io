@@ -46,9 +46,9 @@ mindmap
           id[squared]
           id((circle))
        icons 
-         ::icon(fa fa-book)
+       ::icon(fa fa-rocket)
        images
-         ::icon(fa image)
+       ::icon(fa fa-image)
     Review and Refine
 ```
 
