@@ -71,11 +71,11 @@ Mind mapping is versatile and can be used for countless purposes. Here are just 
 ## Tools for Mind Mapping
 
 You can start mind mapping with just pen and paper, but if you prefer digital tools, here are a few popular options:
-- [Mermaid: text to mindmap](https://mermaid.js.org/syntax/mindmap.html/)
-- [MindMeister: Great for collaborative mind mapping](https://www.mindmeister.com/)
-- [XMind: Ideal for detailed, professional-grade maps](https://xmind.app/)
-- [Coggle: Simple and intuitive for beginners](https://coggle.it/)
-- [mindmapping.com: online with a free trial](https://www.mindmapping.com/)
+- [Mermaid: text to mindmap](https://mermaid.js.org/syntax/mindmap.html)
+- [MindMeister: Great for collaborative mind mapping](https://www.mindmeister.com)
+- [XMind: Ideal for detailed, professional-grade maps](https://xmind.app)
+- [Coggle: Simple and intuitive for beginners](https://coggle.it)
+- [mindmapping.com: online with a free trial](https://www.mindmapping.com)
 
 ## My Personal Journey with Mind Mapping
 
