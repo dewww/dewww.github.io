@@ -75,11 +75,11 @@ You can start mind mapping with just pen and paper, but if you prefer digital to
 - [MindMeister: Great for collaborative mind mapping](https://www.mindmeister.com)
 - [XMind: Ideal for detailed, professional-grade maps](https://xmind.app)
 - [Coggle: Simple and intuitive for beginners](https://coggle.it)
-- [mindmapping.com: online with a free trial](https://www.mindmapping.com)
+- [mindmapping.com: MindView online](https://www.mindmapping.com)
 
 ## My Personal Journey with Mind Mapping
 
-Mind mapping has been a game-changer for me. It’s helped me organize complex projects, clarify vague ideas, and even plan my next steps in life. Whenever I feel stuck or overwhelmed, a mind map is often the tool that gets me moving again. It’s not just a way to organize thoughts, it’s a way to discover new ones.
+Mind mapping has been a game-changer for me. It’s helped me organize complex projects, clarify vague ideas, and even plan my next steps in life. Whenever I feel stuck or overwhelmed, a mind map is often the tool that gets me organized and moving again. It’s not just a way to organize thoughts, it’s a way to discover new ones.
 
 ## Your Turn to Start Mapping
 
