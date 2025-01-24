@@ -2,13 +2,13 @@
 
 In a world filled with distractions, mastering new skills can feel daunting. Between endless notifications, competing priorities, and the fast pace of life, maintaining focus long enough to truly learn something new can seem almost impossible. But there’s a secret weapon that can transform how we approach skill-building: **focus**.
 
-Focus is more than just paying attention—it’s about channeling your energy and intention toward mastery, one step at a time. Building focus is essential to expanding your skills, whether you’re learning a new language, tackling a professional challenge, or exploring a creative passion. With focus, you unlock the ability to learn faster, go deeper, and achieve more.
+Focus is more than just paying attention. Focus is about channeling your energy and intention toward mastery, one step at a time. Building focus is essential to expanding your skills, whether you’re learning a new language, tackling a professional challenge, or exploring a creative passion. With focus, you unlock the ability to learn faster, go deeper, and achieve more.
 
 ---
 
 ## Why Focus Matters in Skill Building
 
-Any new skill, whether it’s coding, public speaking, painting, or financial planning—requires consistent effort. Without focus, progress stalls, and frustration builds. But when you cultivate focus:  
+Any new skill, whether it’s coding, public speaking, painting, or financial planning requires consistent effort. Without focus, progress stalls, and frustration builds. But when you cultivate focus:  
 
 - **You Accelerate Learning:** Focused practice helps you absorb and retain knowledge faster.  
 - **You Improve Quality:** Giving your full attention allows you to minimize mistakes and refine your work.  
