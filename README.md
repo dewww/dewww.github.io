@@ -15,7 +15,7 @@ journey
       Rock Hound on beach: 8: Me
       Expedition Sailing Adventures: 9: Me, Bill, Chris
 ```
-## [Blog](./blog)
+## [Blog](./blog/blogging.md)
 - [Giving Back](./blog/givingBack.md)
 - [Mind Mapping](./blog/mindMapping.md)
 - [Criical Thinking](./blog/criticalThinking.md)
