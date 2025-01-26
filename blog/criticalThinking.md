@@ -21,10 +21,10 @@ Here’s how you can refine your critical thinking and clarify your ideas:
 
 1. Ask Better Questions
 
-Good questions lead to better answers. Instead of asking surface-level questions, dig deeper:
-- What’s the root cause of this problem?
-- What assumptions am I making?
-- What evidence supports this idea?
+  > Good questions lead to better answers. Instead of asking surface-level questions, dig deeper:
+  > - What’s the root cause of this problem?
+  > - What assumptions am I making?
+  > - What evidence supports this idea?
 
 2. Challenge Your Assumptions
 
