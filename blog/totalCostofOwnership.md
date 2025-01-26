@@ -1,6 +1,6 @@
 # Understanding Total Cost of Ownership: Is Owning a Home Worth the Higher Payment?
 
-When making big financial decisions, it’s easy to focus solely on the upfront costs or monthly payments. But there’s a more comprehensive way to evaluate your choices: **total cost of ownership (TCO)**. TCO is a financial analysis tool that considers all the costs associated with owning something—not just the price tag.  
+When making big financial decisions, it’s easy to focus solely on the upfront costs or monthly payments. But there’s a more comprehensive way to evaluate your choices: **total cost of ownership (TCO)**. TCO is a financial analysis tool that considers all the costs associated with owning something, not just the price tag.  
 
 One area where TCO analysis is especially helpful is deciding whether to **buy a home at a higher monthly cost** or **rent at a lower monthly price**. While renting might seem cheaper at first glance, owning a home offers long-term financial benefits that go beyond the surface numbers. Let’s break it down.  
 
