@@ -20,6 +20,7 @@ journey
 - [Mind Mapping](./blog/mindMapping.md)
 - [Criical Thinking](./blog/criticalThinking.md)
 - [Focus](./blog/focus.md)
+- [Securing Data](./blog/dataSecurity.md)
 
 ## Process
 
