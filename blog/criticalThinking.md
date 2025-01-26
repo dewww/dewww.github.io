@@ -70,7 +70,7 @@ When you clarify your ideas and develop critical thinking skills, you’ll notic
 
 I’ve faced my fair share of cloudy ideas and misguided assumptions. Over time, I realized that clarity doesn’t come naturally, it’s a skill you cultivate. By questioning my thoughts, seeking feedback, and reflecting on my decisions, I’ve been able to refine my perspectives and approach challenges with greater confidence. Critical thinking has become a cornerstone of my growth, and it can be for you too.
 
-Your Call to Action
+## Your Call to Action
 
 Start today. Pick a problem or idea you’ve been wrestling with and apply these steps:
 - Ask better questions.
