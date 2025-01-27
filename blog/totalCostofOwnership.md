@@ -14,7 +14,7 @@ Total Cost of Ownership is a method for calculating the complete cost of owning 
 - **Opportunity Costs:** Financial trade-offs of investing in one thing over another.  
 - **Value Over Time:** Appreciation, depreciation, or residual value.  
 
-When applied to buying vs. renting a home, TCO gives a clearer picture of the financial implications of each choice.
+For example when applied to buying vs. renting a home, TCO gives a clearer picture of the financial implications of each choice.
 
 ---
 
@@ -22,51 +22,91 @@ When applied to buying vs. renting a home, TCO gives a clearer picture of the fi
 
 Let’s look at a real-world example:  
 
-### Scenario 1: Owning a Home  
-- **Home Price:** $400,000  
-- **Down Payment:** $80,000 (20%)  
-- **Monthly Mortgage Payment:** $2,200 (principal, interest, taxes, insurance)  
-- **Maintenance Costs:** $200/month  
-- **Property Taxes:** $4,800/year ($400/month)  
-- **Appreciation:** Home value grows 3% annually.  
-- **Utilities:** $200/month  
-
-### Scenario 2: Renting  
-- **Monthly Rent:** $1,500  
-- **Utilities:** $200/month  
-
-At first glance, renting is $700/month cheaper than owning ($2,200 vs. $1,500). But let’s calculate the TCO over 10 years for each scenario.  
+# Total Cost of Ownership: Buying vs Renting in Oregon
 
 ---
 
-### Total Cost of Renting Over 10 Years  
-- **Rent Payments:** $1,500/month × 12 months × 10 years = **$180,000**  
-- **Utilities:** $200/month × 12 months × 10 years = **$24,000**  
-- **Total Cost of Renting:** **$204,000**  
+## **Scenario: Median-Priced Oregon Home vs. Median Rent**
+
+### **Assumptions**
+- **Median Home Purchase Price:** $499,400 ([Source](https://www.houzeo.com/blog/oregon-real-estate-market/))
+- **Down Payment:** 20% ($99,880)
+- **Loan Amount:** $399,520
+- **Mortgage Term:** 30-year fixed
+- **Interest Rate:** 7%
+- **Property Taxes:** 1% of home value annually ($4,994)
+- **Homeowners Insurance:** $1,200 annually
+- **Maintenance Costs:** 1% of home value annually ($4,994)
+- **Home Appreciation Rate:** 3% annually
+- **Tax Bracket:** 24% (for mortgage interest deduction)
+- **Median Monthly Rent in Oregon:** $1,799 ([Source](https://www.zillow.com/rental-manager/market-trends/or/))
+- **Annual Rent Increase:** 10% (maximum allowed in 2025, [Source](https://apps.oregon.gov/))
+
+---
+
+## **Buying a Home**
+
+### **Upfront Costs**
+- **Down Payment:** $99,880
+- **Closing Costs:** ~$14,982 (3% of purchase price)
+- **Total Upfront:** $114,862
+
+### **Monthly Costs**
+- **Mortgage Payment (Principal & Interest):** $2,657
+- **Property Taxes:** $416
+- **Homeowners Insurance:** $100
+- **Maintenance:** $416
+- **Total Monthly Cost:** $3,589
+
+### **Annual Costs**
+- **Mortgage Interest (Year 1):** ~$27,966
+- **Tax Savings from Interest Deduction:** $6,712
+- **Net Annual Cost (Year 1):** $36,356
+
+### **Equity and Appreciation (After 10 Years)**
+- **Total Principal Paid:** ~$65,000
+- **Home Value Increase:** ~$172,000
+- **Total Equity:** $237,000
+
+---
+
+## **Renting**
+
+### **Upfront Costs**
+- **Security Deposit:** $1,799
+
+### **Monthly Costs**
+- **Rent (Year 1):** $1,799
+
+### **Annual Costs**
+- **Year 1 Rent:** $21,588
+- **Total Rent Paid Over 10 Years (with 10% annual increase):** ~$247,482
+
+---
+
+## **10-Year Comparison**
+
+| **Cost Category**       | **Buying**                   | **Renting**              |
+|-------------------------|-----------------------------|--------------------------|
+| Total Costs (10 years)  | $430,720                   | $247,482                |
+| Tax Savings             | ~$67,120                  | $0                      |
+| Net Cost (10 years)     | $363,600                   | $247,482                |
+| Equity Gained           | $237,000                   | $0                      |
+| **Net Out-of-Pocket**   | **$126,600**               | **$247,482**            |
+
+---
+
+## **Conclusion**
+- **Buying:** Over 10 years, buying a median-priced home in Oregon results in a significantly lower net out-of-pocket cost due to equity accumulation and home appreciation. However, it requires a high upfront investment and ongoing costs like maintenance and property taxes.
+- **Renting:** Renting offers lower upfront costs and greater flexibility but results in higher total costs over 10 years with no equity gain.
+
+*Note: This analysis is based on various assumptions and averages. Actual costs can vary based on individual circumstances, market conditions, and changes in interest rates or tax laws.*
 
 Renting appears straightforward, but you’re essentially paying for a place to live with no ownership or equity.  
 
----
-
-### Total Cost of Owning Over 10 Years  
-1. **Mortgage Payments:** $2,200/month × 12 months × 10 years = **$264,000**  
-2. **Maintenance Costs:** $200/month × 12 months × 10 years = **$24,000**  
-3. **Utilities:** $200/month × 12 months × 10 years = **$24,000**
-4. **Property Taxes:** $400/month × 12 months × 10 years = **$48,000**  
-5. **Home Value Growth:** Assuming 3% annual appreciation, the home’s value grows to ~$537,000 after 10 years.  
-
-**Net Cost of Ownership Over 10 Years:**  
-- Total Costs: $360,000 (mortgage + maintenance + taxes)  
-- Tax Deducion for Interest: $50,000 (assuming homeowner qualifies)
-- Equity Gained: $237,000 (home value - loan balance after 10 years)  
-
-**Adjusted Cost of Ownership:** **$360,000 - $50,000 - $237,000 = $73,000**  
-
----
-
 ## What the Numbers Reveal
 
-After 10 years, the TCO for renting ($204,000) and owning ($73,000) are not remarkably close. Because, the equity gained through homeownership significantly shifts the financial picture. Unlike renting, where payments offer no return, owning a home builds wealth over time.  
+After 10 years, the TCO for renting ($247,482) and owning ($126,600) are not remarkably close. Because, the equity gained through homeownership significantly shifts the financial picture. Unlike renting, where payments offer no return, owning a home builds wealth over time.  
 
 Additionally, owning a home offers:  
 - **Stability:** Fixed payments (if you have a fixed-rate mortgage) vs. rising rents.  
