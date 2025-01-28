@@ -20,9 +20,17 @@ Here is an example of an inline equation: \(E = mc^2\).
 ## Block Math
 You can also display equations in block format:
 
+$$
+a^2 + b^2 = c^2
+$$
+
 \[
 a^2 + b^2 = c^2
 \]
+
+$$
+\text{TCO} = \text{Hardware Costs} + \text{Software Costs} + \text{Network Costs} + \text{Personnel Costs} + \text{Training Costs} + \text{Downtime Costs} + \text{Support & Maintenance Costs}
+$$
 
 Another example:
 
