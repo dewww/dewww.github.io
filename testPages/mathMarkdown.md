@@ -7,6 +7,13 @@ title: Math Example
 
 This page demonstrates how to write and display mathematical equations using MathJax on GitHub Pages.
 
+Inline math: $a+b$
+
+Display math:
+$$
+a + b
+$$
+
 ## Inline Math
 Here is an example of an inline equation: \(E = mc^2\).
 
