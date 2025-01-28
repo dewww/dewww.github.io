@@ -21,6 +21,7 @@ journey
 - [Criical Thinking](./blog/criticalThinking.md)
 - [Focus](./blog/focus.md)
 - [Securing Data](./blog/dataSecurity.md)
+- [Total Cost of Ownership](./totalCostofOwnership.md)
 
 ## Process
 
