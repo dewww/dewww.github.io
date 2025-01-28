@@ -108,7 +108,7 @@ Renting appears straightforward, but you’re essentially paying for a place to 
 
 ## What the Numbers Reveal
 
-After 10 years, the TCO for renting ($247,482) and owning ($126,600) are not remarkably close. Because, the equity gained through homeownership significantly shifts the financial picture. Unlike renting, where payments offer no return, owning a home builds wealth over time.  
+After 10 years, the TCO for renting ($184,668 cost) and owning ($-38,617 - returned) are not remarkably close. Because, the equity gained through homeownership significantly shifts the financial picture. Unlike renting, where payments offer no return, owning a home builds wealth over time.  
 
 Additionally, owning a home offers:  
 - **Stability:** Fixed payments (if you have a fixed-rate mortgage) vs. rising rents.  
@@ -142,4 +142,4 @@ When deciding between renting and owning, it’s essential to look beyond monthl
 
 Whether you’re ready to buy or still weighing your options, take the time to calculate the total cost of ownership for your situation. A clear understanding of TCO can help you make a confident, informed decision that aligns with your financial goals and lifestyle.  
 
-Because the numbers may surprise you—and they might just reveal that taking the leap into homeownership is more affordable than you think.
+Because the numbers may surprise you, and they might just reveal that taking the leap into homeownership is more affordable than you think.
