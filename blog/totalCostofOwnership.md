@@ -16,89 +16,91 @@ Total Cost of Ownership is a method for calculating the complete cost of owning 
 
 For example when applied to buying vs. renting a home, TCO gives a clearer picture of the financial implications of each choice.
 
----
-
-## The Home Ownership Example: Buy vs. Rent  
-
 Let’s look at a real-world example:  
 
 # Total Cost of Ownership: Buying vs Renting in Oregon
 
----
-
-## **Scenario: Median-Priced Oregon Home vs. Median Rent**
-
-### **Assumptions**
-- **Median Home Purchase Price:** $499,400 ([Source](https://www.houzeo.com/blog/oregon-real-estate-market/))
-- **Down Payment:** 20% ($99,880)
-- **Loan Amount:** $399,520
-- **Mortgage Term:** 30-year fixed
-- **Interest Rate:** 7%
-- **Property Taxes:** 1% of home value annually ($4,994)
-- **Homeowners Insurance:** $1,200 annually
-- **Maintenance Costs:** 1% of home value annually ($4,994)
-- **Home Appreciation Rate:** 3% annually
-- **Tax Bracket:** 24% (for mortgage interest deduction)
-- **Median Monthly Rent in Oregon:** $1,799 ([Source](https://www.zillow.com/rental-manager/market-trends/or/))
-- **Annual Rent Increase:** 10% (maximum allowed in 2025, [Source](https://apps.oregon.gov/))
+This analysis compares the Total Cost of Ownership (TCO) for buying a house versus renting in Oregon under the following conditions:
 
 ---
 
-## **Buying a Home**
+## **Assumptions**
+- **Median Home Price (Oregon):** $499,400  
+- **Down Payment (Buying):** 20% ($99,880)  
+- **Loan Amount:** $399,520  
+- **Interest Rate (30-Year Fixed Mortgage):** 7%  
+- **Property Tax Rate:** 1% of home value ($4,994 annually)  
+- **Homeowners Insurance:** $1,200 annually  
+- **Maintenance Costs:** 1% of home value annually ($4,994 annually)  
+- **Home Appreciation Rate:** 3% annually  
+- **Tax Bracket (for interest deduction):** 24%  
+- **Initial Monthly Rent (Oregon):** $1,799  
+- **Annual Rent Increase:** 3%  
+- **Investment Return (Renting Offset):** 5% annually on $99,880 (equivalent to the down payment in the buying case)  
+- **Time Period:** 10 years  
+
+---
+
+## **1. Buying a Home**
 
 ### **Upfront Costs**
-- **Down Payment:** $99,880
-- **Closing Costs:** ~$14,982 (3% of purchase price)
-- **Total Upfront:** $114,862
-
-### **Monthly Costs**
-- **Mortgage Payment (Principal & Interest):** $2,657
-- **Property Taxes:** $416
-- **Homeowners Insurance:** $100
-- **Maintenance:** $416
-- **Total Monthly Cost:** $3,589
+- **Down Payment:** $99,880  
+- **Closing Costs:** 3% of purchase price ($14,982)  
+- **Total Upfront Costs:** $114,862  
 
 ### **Annual Costs**
-- **Mortgage Interest (Year 1):** ~$27,966
-- **Tax Savings from Interest Deduction:** $6,712
-- **Net Annual Cost (Year 1):** $36,356
+- **Mortgage Payment (Principal + Interest):** $2,657/month ($31,884 annually)  
+- **Property Taxes:** $4,994 annually  
+- **Homeowners Insurance:** $1,200 annually  
+- **Maintenance Costs:** $4,994 annually  
+- **First-Year Interest Deduction Savings:** ~$6,712  
 
-### **Equity and Appreciation (After 10 Years)**
-- **Total Principal Paid:** ~$65,000
-- **Home Value Increase:** ~$172,000
-- **Total Equity:** $237,000
+### **10-Year Totals (Buying)**
+- **Mortgage Payments:** $318,840  
+- **Property Taxes:** $49,940  
+- **Insurance:** $12,000  
+- **Maintenance:** $49,940  
+- **Tax Savings (Cumulative):** ~$67,120  
+- **Net Total Cost (Buying):** ~$363,600  
+- **Equity Gained (Home Appreciation + Principal Paid):** ~$462,747  
 
 ---
 
-## **Renting**
+## **2. Renting a Home**
 
-### **Upfront Costs**
-- **Security Deposit:** $1,799
+### **Annual Rent (with 3% Increase)**
+- **Year 1:** $21,588  
+- **Total Rent Paid Over 10 Years:** ~$247,482  
 
-### **Monthly Costs**
-- **Rent (Year 1):** $1,799
+### **Offset: Investment of Down Payment**
+- **Investment Growth (5% Annual Return on $99,880):** ~$162,694 after 10 years  
+- **Net Return (Profit):** ~$62,814  
 
-### **Annual Costs**
-- **Year 1 Rent:** $21,588
-- **Total Rent Paid Over 10 Years (with 10% annual increase):** ~$247,482
+### **10-Year Totals (Renting)**
+- **Total Rent Paid:** ~$247,482  
+- **Offset from Investment:** ~$62,814  
+- **Net Total Cost (Renting):** ~$184,668  
 
 ---
 
-## **10-Year Comparison**
+## **3. Comparison**
 
-| **Cost Category**       | **Buying**                   | **Renting**              |
-|-------------------------|-----------------------------|--------------------------|
-| Total Costs (10 years)  | $430,720                   | $247,482                |
-| Tax Savings             | ~$67,120                  | $0                      |
-| Net Cost (10 years)     | $363,600                   | $247,482                |
-| Equity Gained           | $237,000                   | $0                      |
-| **Net Out-of-Pocket**   | **$126,600**               | **$247,482**            |
+| **Category**                | **Buying**          | **Renting** (w/ Investment Offset) |
+|-----------------------------|---------------------|-------------------------------------|
+| **Total Cost (10 years)**   | $424,130           | $247,482                           |
+| **Tax Savings**             | $6,712             | $0                                 |
+| **Equity Gained**           | $462,747           | $62,814                            |
+| **Net Out-of-Pocket Cost**  | **$-38,617**       | **$184,668**                       |
 
 ---
 
 ## **Conclusion**
-- **Buying:** Over 10 years, buying a median-priced home in Oregon results in a significantly lower net out-of-pocket cost due to equity accumulation and home appreciation. However, it requires a high upfront investment and ongoing costs like maintenance and property taxes.
-- **Renting:** Renting offers lower upfront costs and greater flexibility but results in higher total costs over 10 years with no equity gain.
+- **Buying:** After 10 years, buying a home results in significant equity gains (~$462,747) and an overall net benefit due to appreciation and principal repayment, even though the upfront costs and recurring expenses are higher.  
+- **Renting:** Renting is initially less expensive and more flexible. However, even with a 5% annual return on investing the equivalent of the down payment, the net cost (~$184,668) is substantially higher than buying when considering long-term equity.
+
+---
+
+*Note: This analysis assumes stable market conditions and uses averages. Actual costs and returns may vary.*
 
 *Note: This analysis is based on various assumptions and averages. Actual costs can vary based on individual circumstances, market conditions, and changes in interest rates or tax laws.*
 
