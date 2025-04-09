@@ -122,3 +122,6 @@ the process to maximize your chances of a positive outcome.
 
 **Remember:** Early action is critical. If you’re at risk of foreclosure, 
 contact a HUD-certified housing counselor immediately for help.
+
+Disclaimer: This document is for informational purposes only and does not constitute legal advice. 
+Homeowners should consult an attorney for specific legal guidance.
