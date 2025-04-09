@@ -25,5 +25,6 @@ journey
 
 ## Process
 
-## Website
+## Websites
+- [Foreclosure Washington State](./foreclosure/Washington.md)
 - [Foreclosure Oregon](./foreclosure/Oregon.md)
