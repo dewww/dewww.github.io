@@ -1,4 +1,4 @@
-"# Foreclosure Counseling: A Guide for Oregon Homeowners
+# Foreclosure Counseling: A Guide for Oregon Homeowners
 
 Foreclosure is a stressful and complex process, but homeowners in Oregon have access 
 to valuable resources through HUD-certified housing counselors. 
