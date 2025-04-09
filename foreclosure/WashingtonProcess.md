@@ -102,7 +102,7 @@ for the remaining balance after the sale.
 
 - **HUD-Approved Housing Counselors:**
   - [Find a counselor near you](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-- ** Call the WA Homeownership Hotline
+- **Call the WA Homeownership Hotline**
 	- 1-877-894-HOME (4663)
 - **Get legal help at the Northwest Justice Project:**
   - [Visit website](https://nwjustice.org/)
