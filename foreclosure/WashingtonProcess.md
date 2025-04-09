@@ -107,6 +107,7 @@ for the remaining balance after the sale.
 - **Get legal help at the Northwest Justice Project:**
   - [Visit website](https://nwjustice.org/)
 - **[Visit the Washington State Dept of Commerce website](https://www.commerce.wa.gov/)**
+  - [Foreclosure Fairness](https://www.commerce.wa.gov/homeownership/foreclosure-fairness/)
 
 ---
 
