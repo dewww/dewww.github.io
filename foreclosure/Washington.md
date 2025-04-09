@@ -1,18 +1,26 @@
 # Foreclosure Counseling: A Guide for Washington State Homeowners
 
-Foreclosure is a stressful and complex process, but homeowners in Washington have access to valuable resources through HUD-certified housing counselors. This document outlines the foreclosure counseling process, the role of housing counselors, and what homeowners need to know and do during this critical time.
+Foreclosure is a stressful and complex process, 
+but homeowners in Washington have access to valuable resources 
+through HUD-certified housing counselors. This document outlines the 
+foreclosure counseling process, the role of housing counselors, 
+and what homeowners need to know and do during this critical time.
 
 ---
 
 ## **What is Foreclosure Counseling?**
 
-Foreclosure counseling is a service provided by HUD-certified housing counselors to help homeowners understand their options and navigate the foreclosure process. It aims to prevent foreclosure when possible and assist homeowners in making informed decisions about their housing situation.
+Foreclosure counseling is a service provided by HUD-certified housing 
+counselors to help homeowners understand their options and navigate the foreclosure process. 
+It aims to prevent foreclosure when possible and assist homeowners 
+in making informed decisions about their housing situation.
 
 ---
 
 ## **What a Housing Counselor Can Do for You**
 
-HUD-certified housing counselors provide free or low-cost services to homeowners at risk of foreclosure. They can:
+HUD-certified housing counselors provide free or low-cost services 
+to homeowners at risk of foreclosure. They can:
 
 1. **Explain the [Foreclosure Process](./WashingtonProcess.md)**  
    - Clarify state-specific foreclosure laws in Washington.
@@ -28,7 +36,7 @@ HUD-certified housing counselors provide free or low-cost services to homeowners
    - Explain alternatives to foreclosure, such as short sales or deed-in-lieu of foreclosure.
 
 4. **Provide Referrals**  
-   - Direct you to legal aid services, financial resources, or state assistance programs, such as Oregon's **Homeowner Assistance Fund (HAF)**.
+   - Direct you to legal aid services, financial resources, or state assistance programs.
 
 5. **Offer Education and Guidance**  
    - Help you prepare the necessary documents and forms.
@@ -38,13 +46,16 @@ HUD-certified housing counselors provide free or low-cost services to homeowners
 
 ## **Documents You Will Receive from Your Lender**
 
-During the foreclosure process, lenders are required to provide specific documents. These include:
+During the foreclosure process, lenders are required to provide specific documents. 
+These include:
 
 1. **Notice of Default (NOD)**  
-   - A formal notice indicating you are behind on mortgage payments and the lender is beginning foreclosure proceedings.
+   - A formal notice indicating you are behind on mortgage payments and the lender 
+is beginning foreclosure proceedings.
 
 2. **Pre-Foreclosure Notice**  
-   - In Washington, this is a written notification outlining your right to mediation before foreclosure.
+   - In Washington, this is a written notification outlining your right to mediation 
+before foreclosure.
 
 3. **Loan Modification or Forbearance Options**  
    - Information about potential alternatives to foreclosure.
@@ -70,16 +81,20 @@ To make the most of foreclosure counseling, take the following actions:
    - Foreclosure notices, if applicable.
 
 2. **Be Honest and Transparent**  
-   - Share all relevant details about your financial situation. The more information the counselor has, the better they can assist you.
+   - Share all relevant details about your financial situation. 
+The more information the counselor has, the better they can assist you.
 
 3. **Attend Mediation Sessions (if applicable)**  
-   - Washington offers foreclosure mediation. Your counselor can help you prepare and accompany you if needed.
+   - Washington offers foreclosure mediation. Your counselor can help you prepare 
+and accompany you if needed.
 
 4. **Follow Through on Recommendations**  
-   - Complete any tasks your counselor assigns, such as submitting documents to your lender or creating a financial plan.
+   - Complete any tasks your counselor assigns, such as submitting documents to your 
+lender or creating a financial plan.
 
 5. **Stay Informed**  
-   - Regularly communicate with your counselor and lender. Keep track of deadlines and requirements.
+   - Regularly communicate with your counselor and lender. Keep track of deadlines 
+and requirements.
 
 ---
 
@@ -98,8 +113,12 @@ To make the most of foreclosure counseling, take the following actions:
 
 ## **Key Takeaways**
 
-- Foreclosure counseling is a free or low-cost service designed to help you navigate foreclosure and explore options to avoid losing your home.
-- Housing counselors are trained professionals who can guide you through Washington's foreclosure laws and mediate with lenders on your behalf.
-- Bring all necessary documents to your counselor and actively engage in the process to maximize your chances of a positive outcome.
+- Foreclosure counseling is a free or low-cost service designed to help you navigate 
+foreclosure and explore options to avoid losing your home.
+- Housing counselors are trained professionals who can guide you through 
+Washington's foreclosure laws and mediate with lenders on your behalf.
+- Bring all necessary documents to your counselor and actively engage in 
+the process to maximize your chances of a positive outcome.
 
-**Remember:** Early action is critical. If you’re at risk of foreclosure, contact a HUD-certified housing counselor immediately for help.
+**Remember:** Early action is critical. If you’re at risk of foreclosure, 
+contact a HUD-certified housing counselor immediately for help.
