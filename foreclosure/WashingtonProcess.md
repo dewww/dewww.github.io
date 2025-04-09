@@ -1,12 +1,14 @@
-# Foreclosure Process in Oregon: A Homeowner's Guide
+# Foreclosure Process in Washington State: A Homeowner's Guide
 
-This document provides a step-by-step overview of the foreclosure process in Oregon, focusing on the homeowner's perspective. It also includes tips for avoiding foreclosure and resources for assistance.
+This document provides a step-by-step overview of the foreclosure process in Washington State, 
+focusing on the homeowner's perspective. 
+It also includes tips for avoiding foreclosure and resources for assistance.
 
 ---
 
 ## Table of Contents
-1. [Overview of Foreclosure in Oregon](#overview-of-foreclosure-in-oregon)
-2. [Types of Foreclosures in Oregon](#types-of-foreclosures-in-oregon)
+1. [Overview of Foreclosure in Washington](#overview-of-foreclosure-in-oregon)
+2. [Types of Foreclosures in Washington](#types-of-foreclosures-in-oregon)
 3. [Steps in the Foreclosure Process](#steps-in-the-foreclosure-process)
 4. [How to Avoid Foreclosure](#how-to-avoid-foreclosure)
 5. [Legal Protections for Homeowners](#legal-protections-for-homeowners)
@@ -14,26 +16,29 @@ This document provides a step-by-step overview of the foreclosure process in Ore
 
 ---
 
-## Overview of Foreclosure in Oregon
+## Overview of Foreclosure in Washington
 
-Foreclosure is the legal process a lender uses to recover the balance owed on a mortgage when a homeowner fails to make payments. In Oregon, the process is typically **non-judicial**, but judicial foreclosures are also allowed.
+Foreclosure is the legal process a lender uses to recover the balance owed on a mortgage when a homeowner fails to make payments. 
+In Washington, the process is typically **non-judicial**, but judicial foreclosures are also allowed.
 
-- **Non-Judicial Foreclosure:** Most common in Oregon; involves a trustee sale without court involvement.
+- **Non-Judicial Foreclosure:** Most common in Washington; involves a trustee sale without court involvement.
 - **Judicial Foreclosure:** Requires court proceedings and is used in limited cases, such as when a deficiency judgment is sought.
 
 ---
 
-## Types of Foreclosures in Oregon
+## Types of Foreclosures in Washington
 
-1. **Non-Judicial Foreclosure (Primary Method):**
-   - Governed by Oregon's Trust Deed Act.
+1. **Non-Judicial Foreclosure:**
+   - Washington primarily uses a non-judicial foreclosure process. 
+This means the lender does not need to go to court unless it's a judicial foreclosure.
    - No court involvement; faster process.
    - The property is sold at a public auction.
 
 2. **Judicial Foreclosure:**
    - Initiated through the court system.
    - Typically used for mortgages or when the lender seeks a deficiency judgment.
-   - Slower but may provide additional opportunities for the homeowner to contest the foreclosure.
+   - Slower but may provide additional opportunities for the homeowner to contest 
+the foreclosure.
 
 ---
 
@@ -41,17 +46,19 @@ Foreclosure is the legal process a lender uses to recover the balance owed on a 
 
 ### 1. **Missed Payments**
    - Foreclosure begins after the homeowner misses payments, usually three or more months.
-   - The lender sends a **Notice of Default (NOD)** and may offer alternatives to foreclosure.
+   - The lender sends a **Breach letter** (typically after 90 days) and may offer alternatives to foreclosure.
 
 ### 2. **Notice of Default**
    - If payments remain unpaid, the lender files a NOD with the county recorder.
    - The homeowner receives a copy of the NOD, which includes:
      - Amount owed.
      - Cure period (time to catch up on payments).
-     - Contact information for assistance.
+     - Contact information for assistance. 
+       - Referral to foreclosure mediation (if eligible)
 
-### 3. **Notice of Sale**
-   - After the cure period, the lender issues a **Notice of Sale**, announcing the date, time, and location of the foreclosure auction.
+### 3. **Notice of Trustee Sale**
+   - Minimum 120 days after Default notice, the lender issues a **Notice of Sale**, 
+announcing the date, time, and location of the foreclosure auction.
    - The notice is published in local newspapers and mailed to the homeowner.
 
 ### 4. **Foreclosure Sale**
@@ -61,7 +68,8 @@ Foreclosure is the legal process a lender uses to recover the balance owed on a 
 ### 5. **Post-Foreclosure**
    - If the home is sold at auction:
      - The new owner (often the lender) can begin eviction proceedings.
-   - In a judicial foreclosure, the lender may seek a deficiency judgment for the remaining balance after the sale.
+   - In a judicial foreclosure, the lender may seek a deficiency judgment 
+for the remaining balance after the sale.
 
 ---
 
@@ -74,10 +82,10 @@ Foreclosure is the legal process a lender uses to recover the balance owed on a 
    - Contact a HUD-approved housing counseling agency for free advice and assistance.
 
 3. **Apply for Mediation:**
-   - Oregon law requires lenders to offer mediation for non-judicial foreclosures.
+   - Washington requires lenders to offer mediation for non-judicial foreclosures.
 
 4. **Explore State and Federal Assistance Programs:**
-   - Programs like the Oregon Homeowner Assistance Fund (HAF) can provide financial help.
+   - Newer programs like the historical Homeowner Assistance Fund (HAF) can provide financial help.
 
 ---
 
@@ -94,19 +102,21 @@ Foreclosure is the legal process a lender uses to recover the balance owed on a 
 
 - **HUD-Approved Housing Counselors:**
   - [Find a counselor near you](https://www.hud.gov/i_want_to/talk_to_a_housing_counselor)
-- **Oregon Homeowner Assistance Fund (HAF):**
-  - [Learn more and apply](https://www.oregon.gov/ohcs/homeowner-assistance/)
-- **Legal Aid Services of Oregon:**
-  - [Visit website](https://www.oregonlawhelp.org)
-- **Oregon Foreclosure Mediation Program:**
-  - [More details](https://www.doj.state.or.us)
+- ** Call the WA Homeownership Hotline
+	- 1-877-894-HOME (4663)
+- **Get legal help at the Northwest Justice Project:**
+  - [Visit website](https://nwjustice.org/)
+- **[Visit the Washington State Dept of Commerce website](https://www.commerce.wa.gov/)**
 
 ---
 
 ## Conclusion
 
-Foreclosure is a challenging process, but understanding your rights and options as a homeowner in Oregon can help you navigate the situation. Reach out to resources and legal professionals for guidance and support.
+Foreclosure is a challenging process, but understanding your rights and options 
+as a homeowner in Washington can help you navigate the situation. 
+Reach out to resources and legal professionals for guidance and support.
 
 ---
 
-_Disclaimer: This document is for informational purposes only and does not constitute legal advice. Homeowners should consult an attorney for specific legal guidance._
+_Disclaimer: This document is for informational purposes only and does not constitute 
+legal advice. Homeowners should consult an attorney for specific legal guidance._
