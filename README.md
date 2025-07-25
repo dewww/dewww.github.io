@@ -22,6 +22,7 @@ journey
 - [Focus](./blog/focus.md)
 - [Securing Data](./blog/dataSecurity.md)
 - [Total Cost of Ownership](./blog/totalCostofOwnership.md)
+- [Small Team Effectiveness](./blog/smallTeamChallenges.md)
 
 ## Process
 
