@@ -22,9 +22,10 @@ journey
 - [Focus](./blog/focus.md)
 - [Securing Data](./blog/dataSecurity.md)
 - [Total Cost of Ownership](./blog/totalCostofOwnership.md)
-- [Small Team Effectiveness](./blog/smallTeamChallenges.md)
+  - [Evolving TCO](./blog/TCOevolving.md)
 
 ## Process
+- [Small Team Effectiveness](./blog/smallTeamChallenges.md)
 
 ## Websites
 - [Foreclosure Washington State](./foreclosure/Washington.md)
